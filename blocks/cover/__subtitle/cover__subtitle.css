@@ -1,0 +1,9 @@
+.cover__subtitile {
+    max-width: 360px;
+    color: white;
+    font-size: 18px;
+    font-weight: normal;
+    z-index: 1;
+    text-align: center;
+    line-height: 22px;
+}
