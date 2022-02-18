@@ -1,4 +1,4 @@
 .place__text {
     margin: 0;
-    width: 45%;
+    width: calc((100% - 32px)/2);
 }
