@@ -1,11 +1,15 @@
 .cover__subtitle {
+    position: relative;
     width: 35%;
     color: white;
     font-size: 1.2rem;
     font-weight: normal;
-    z-index: 1;
     text-align: center;
     line-height: 1.2;
+}
+
+.cover__subtitle:hover {
+    opacity: 1;
 }
 
 @media screen and (max-width: 768px) {

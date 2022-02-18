@@ -1,4 +1,5 @@
 .cover__title {
+    position: relative;
     max-width: calc(100% * 560/1024);
     color: white;
     font-size: 4.5rem;
