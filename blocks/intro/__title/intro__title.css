@@ -5,3 +5,9 @@
     margin: 92px 0 0;
     font-weight: bold;
 }
+
+@media screen and (max-width: 768px) {
+    .intro__title {
+        font-size: 2rem;
+    }
+}
