@@ -12,6 +12,13 @@
     opacity: 1;
 }
 
+@media screen and (max-width: 900px) {
+    .cover__subtitle {
+        font-size: 1rem;
+        width: 90%;
+    }
+}
+
 @media screen and (max-width: 767px) {
     .cover__subtitle {
         width: 90%;
