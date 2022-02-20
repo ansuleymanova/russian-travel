@@ -6,12 +6,12 @@
     align-items: center;
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1023px) {
     .places {
         max-width: 984px;
     }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     .places {
         width: 100%;
     }

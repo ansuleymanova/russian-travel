@@ -9,7 +9,7 @@
     margin: auto;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
     .lead__caption {
         font-size: .875rem;
     }
